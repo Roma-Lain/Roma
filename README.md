@@ -9,7 +9,7 @@
 -->
 
 <p align="center">
-  <img src="https://i.gifer.com/7icR.gif" alt="digital rain" width="100%" style="max-width: 600px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,255,65,0.2);">
+  <img src="https://i.gifer.com/7icR.gif" alt="digital rain" width="100%" max-width="800px" />
 </p>
 
 <h1 align="center">Roma</h1>
