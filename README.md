@@ -8,7 +8,7 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/Roma/Roma/assets/XXXXXX/animated-hacker-avatar.gif" alt="fsociety avatar" width="150" style="border-radius: 50%; filter: hue-rotate(120deg) saturate(2);">
+  <img src="https://i.gifer.com/7icR.gif" alt="fsociety avatar" width="150" style="border-radius: 50%; filter: hue-rotate(120deg) saturate(2);">
 </p>
 
 <h1 align="center">Roma</h1>
