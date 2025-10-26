@@ -38,10 +38,6 @@ timezone: UTC+3 (soul in /dev/urandom)
        onerror="this.style.filter='none'; this.style.color='#00FF41';">
 </div>
 
-> ⚠️ **Примечание**: GitHub может блокировать `filter` в SVG.  
-> Если Linux не "светится" — он всё равно будет **ярко-зелёным** благодаря запасному решению ниже.
-
----
 
 ### 📊 Stats (quiet mode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roma&layout=compact&theme=dark&bg_color=0D0D0D&text_color=00FF41&border_color=1A1A1A)](https://github.com/Roma)
