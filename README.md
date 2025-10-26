@@ -1,28 +1,29 @@
 <!--
-███╗   ███╗██████╗ ███████╗███████╗██╗██████╗ ██╗   ██╗
-████╗ ████║██╔══██╗██╔════╝██╔════╝██║██╔══██╗╚██╗ ██╔╝
-██╔████╔██║██████╔╝█████╗  █████╗  ██║██████╔╝ ╚████╔╝ 
-██║╚██╔╝██║██╔══██╗██╔══╝  ██╔══╝  ██║██╔══██╗  ╚██╔╝  
-██║ ╚═╝ ██║██████╔╝███████╗██║     ██║██║  ██║   ██║   
-╚═╝     ╚═╝╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   
+   .--.
+  |o_o |
+  |:_/ |
+ //   \ \
+(|     | )
+/'\_   _/`\
+\___)=(___/
 -->
 
 <p align="center">
-  <img src="https://i.gifer.com/7icR.gif" alt="fsociety avatar" width="150" style="border-radius: 50%; filter: hue-rotate(120deg) saturate(2);">
+  <img src="https://i.gifer.com/7icR.gif" alt="digital rain" width="100%" style="max-width: 600px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,255,65,0.2);">
 </p>
 
 <h1 align="center">Roma</h1>
-<h3 align="center">> whoami</h3>
+<h3 align="center">just coding in the static</h3>
 
 <p align="center">
-  <em>“I’m not a hero. I’m a chill guy.”</em>
+  <em>building things that don’t scream — they hum</em>
 </p>
 
 ---
 
-### 🔒 Current Mission Status
+### 🌙 Currently
 ```bash
-[✓] Infiltrating E Corp
-[✓] Writing clean, dangerous code
-[✗] Obeying the system
-[?] Saving the world — one commit at a time
+listening to: ambient noise & compiler warnings  
+thinking about: clean abstractions  
+avoiding: meetings, drama, unnecessary dependencies  
+timezone: UTC+3 (but mentally in /dev/null)
