@@ -15,7 +15,7 @@
 <h3 align="center">> whoami</h3>
 
 <p align="center">
-  <em>“I’m not a hero. I’m a hacker.”</em>
+  <em>“I’m not a hero. I’m a chill guy.”</em>
 </p>
 
 ---
