@@ -8,10 +8,6 @@
 \___)=(___/
 -->
 
-<p align="center">
- <img src="./assets/digital-rain.gif" ... />  alt="digital rain" width="100%" max-width="800px" />
-</p>
-
 <h1 align="center">Roma</h1>
 <h3 align="center">just coding in the static</h3>
 
@@ -23,7 +19,7 @@
 
 ### 🌙 Currently
 ```bash
-listening to: ambient noise & compiler warnings  
-thinking about: clean abstractions  
-avoiding: meetings, drama, unnecessary dependencies  
-timezone: UTC+3 (but mentally in /dev/null)
+listening to: rain & terminal beeps  
+thinking about: state machines  
+avoiding: noise, bloat, overengineering  
+timezone: UTC+3 (soul in /dev/urandom)
