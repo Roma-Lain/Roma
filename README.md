@@ -39,19 +39,3 @@ timezone: UTC+3 (soul in /dev/urandom)
 </div>
 
 
-### 📊 Stats (quiet mode)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roma&layout=compact&theme=dark&bg_color=0D0D0D&text_color=00FF41&border_color=1A1A1A)](https://github.com/Roma)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roma&show_icons=true&theme=dark&bg_color=0D0D0D&text_color=00FF41&border_color=1A1A1A&icon_color=00FF41)](https://github.com/Roma)
-
----
-
-> *“Silence is the loudest sound in a server room.”*  
-> — Roma
-
-<!--
-   no drama. just code.
--->
-```
-
----
